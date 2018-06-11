@@ -3,6 +3,8 @@ import { StyleSheet, Platform, Image, Text, View, ScrollView } from 'react-nativ
 
 import firebase from 'react-native-firebase';
 
+import Login from './screens/unauthenticated/Login'
+
 export default class App extends React.Component {
   constructor() {
     super();
@@ -26,6 +28,7 @@ export default class App extends React.Component {
         <Text style={styles.instructions}>
           To get started, edit App.js
         </Text>
+        <Login />
         {Platform.OS === 'ios' ? (
           <Text style={styles.instructions}>
             Press Cmd+R to reload,{'\n'}

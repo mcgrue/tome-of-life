@@ -1,3 +1,13 @@
+# THings
+---------------------------------------------------------
+Set project parameters to:
+---------------------------------------------------------
+Project name:  TheTomeofLife
+Company name:  themagicalcards
+Package name:  com.themagicalcards.thetomeoflife
+---------------------------------------------------------
+
+
 # React Native Firebase Starter<a href="https://rnfirebase.io"><img align="left" src="http://i.imgur.com/01XQL0x.png"></a>
 
 [![Backers on Open Collective](https://opencollective.com/react-native-firebase/backers/badge.svg)](#backers)
