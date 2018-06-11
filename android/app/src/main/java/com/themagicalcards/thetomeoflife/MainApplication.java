@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.themagicalcards.thetomeoflife;
 
 import android.app.Application;
 
